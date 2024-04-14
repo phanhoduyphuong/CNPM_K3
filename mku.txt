@@ -1,2 +1,3 @@
 Mekong university
 Công nghệ phần mềm
+Student s = new Student();
